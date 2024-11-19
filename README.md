@@ -41,5 +41,5 @@ Estas insignias ya no están disponibles para obtenerse:
 
 | Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Se Obtenía | Dificultad |
 | --- | --- | --- | --- | --- |
-| Arctic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="175px"> | `❌ No` | Contribuir código a los repositorios del [2020 Archive Program](https://archiveprogram.github.com/). | Muy Fácil |
-| Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Contribuir a repositorios en la [Misión Marte 2020](https://github.com/readme/nasa-ingenuity-helicopter). | Fácil |
+| Colaborador de la bóveda del Código Ártico | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="175px"> | `❌ No` | Contribuir código a los repositorios del [2020 Archive Program](https://archiveprogram.github.com/). | Muy Fácil |
+| Marte 2020 Contribuidor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Contribuir a repositorios en la [Misión Marte 2020](https://github.com/readme/nasa-ingenuity-helicopter). | Fácil |
