@@ -1,14 +1,10 @@
 # 🛡️ Insignias de Perfil (Profile Badges)
 
-Este repositorio está creado con el propósito de facilitar el acceso a la información sobre las insignias de GitHub a la comunidad hispanohablante. Todo el contenido está basado en el repositorio original en inglés, que puedes encontrar aquí: [Repositorio original](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md).
-
-Además, conocí esta idea gracias a este video: [Video sobre las insignias](https://www.youtube.com/watch?v=oJWFfp3sGYA&t=362s).
+Este repositorio está creado con el propósito de facilitar el acceso a la información sobre las insignias de GitHub a la comunidad hispanohablante. Todo el contenido está basado en este [Repositorio ](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md).
 
 Este repositorio incluye una colección de todas las insignias de GitHub y cómo obtenerlas. Algunas son obtenibles, otras ya no lo son y algunas están en fase de prueba. Las insignias están organizadas por dificultad: `Muy Fácil`, `Fácil`, `Intermedio` y `Difícil`.
 
-Las insignias de GitHub se lanzaron tras el éxito del primer helicóptero en Marte, [Ingenuity](https://es.wikipedia.org/wiki/Ingenuity_(helic%C3%B3ptero)).
-
-> Actualmente, hay un total de 11 insignias en GitHub, algunas con niveles de bronce, plata y oro.
+> Actualmente, hay un total de 11 insignias en GitHub, algunas con niveles de bronce, plata y oro (Para conocer esta y mas informacion visita este [Repositorio ](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md) hecho por [Thinkright20](https://github.com/Thinkright20)) fue el creador que me llevo a conocer esto y del cual use trabajo para crear esta repo.
 
 ---
 
