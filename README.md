@@ -15,7 +15,7 @@ Estas insignias aún están en fase de pruebas y estarán disponibles próximame
 | Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
 | --- | --- | --- | --- | --- |
 | Corazón en la Manga (Heart On Your Sleeve) | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 En pruebas` | Reacciona con un emoji ❤️ a algo en GitHub. | Muy Fácil |
-| Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 En pruebas` | Ten Pull Requests aceptados en más de un repositorio público. | Intermedio |
+| Codigo Abierto(Open Sourcerer) | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 En pruebas` | Ten Pull Requests aceptados en más de un repositorio público. | Intermedio |
 
 ---
 
