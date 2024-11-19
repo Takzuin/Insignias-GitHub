@@ -4,7 +4,7 @@ Este repositorio está creado con el propósito de facilitar el acceso a la info
 
 Este repositorio incluye una colección de todas las insignias de GitHub y cómo obtenerlas. Algunas son obtenibles, otras ya no lo son y algunas están en fase de prueba. Las insignias están organizadas por dificultad: `Muy Fácil`, `Fácil`, `Intermedio` y `Difícil`.
 
-> Actualmente, hay un total de 11 insignias en GitHub, algunas con niveles de bronce, plata y oro (Para conocer esta y mas informacion visita este [Repositorio ](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md) hecho por [Thinkright20](https://github.com/Thinkright20)) fue el creador que me llevo a conocer esto y del cual use trabajo para crear esta repo.
+> Actualmente, hay un total de 11 insignias en GitHub, algunas con niveles de bronce, plata y oro (Para conocer esta y mas informacion visita este [Repositorio ](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md) hecho por [Thinkright20](https://github.com/Thinkright20) fue el creador que me llevo a conocer esto y del cual use trabajo para crear esta repo.
 
 ---
 
