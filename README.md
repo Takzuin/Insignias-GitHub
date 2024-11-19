@@ -8,14 +8,14 @@ Las insignias de GitHub se añadieron después del lanzamiento del primer helic�
 
 # 🧪 Logros en Pruebas
 Estos logros todavía están en fase de prueba y estarán disponibles próximamente:
-| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
+| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerlo | Dificultad |
 | --- | --- | --- | --- | --- |
 Corazón en la Manga | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 En pruebas` | Se puede obtener reaccionando con un emoji ❤️ a algo en GitHub. | Muy Fácil
 Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 En pruebas` | Se obtiene si el usuario tiene Pull Requests aceptados en más de 1 repositorio público. | Intermedio
 
 # 🥇 Logros Obtenibles
 Los logros listados a continuación son los que puedes obtener:
-| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
+| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerlo | Dificultad |
 | --- | --- | --- | --- | --- |
 Tiburón del Pull Request | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Sí` | Puedes obtener esta insignia al fusionar 2 Pull Requests. | Intermedio
 YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | `✅ Sí` | Se obtiene al fusionar un Pull Request sin revisión (requiere 1 usuario y 1 revisor). | Intermedio
