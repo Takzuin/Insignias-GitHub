@@ -1,26 +1,47 @@
-# 🛡️ Insignias de Perfil
+# 🛡️ Insignias de Perfil (Profile Badges)
 
-Este repositorio incluye una colección de todas las insignias de GitHub y cómo obtener cada una de ellas. Algunas son obtenibles, otras no, y otras aún están en fase de prueba. Este repositorio organiza las insignias desde `Muy Fácil` a `Fácil`, `Intermedio` y, finalmente, `Difícil`.
+Este repositorio está creado con el propósito de facilitar el acceso a la información sobre las insignias de GitHub a la comunidad hispanohablante. Todo el contenido está basado en el repositorio original en inglés, que puedes encontrar aquí: [Repositorio original](https://github.com/Thinkright20/Profile-Badges/blob/main/README.md). Además, conocí esta idea gracias a este video: [Video sobre las insignias](https://www.youtube.com/watch?v=oJWFfp3sGYA&t=362s).
 
-Las insignias de GitHub se añadieron después del lanzamiento del primer helicóptero en Marte, [Ingenuity](https://es.wikipedia.org/wiki/Ingenuity_(helic%C3%B3ptero)).
+Este repositorio incluye una colección de todas las insignias de GitHub y cómo obtenerlas. Algunas son obtenibles, otras ya no lo son y algunas están en fase de prueba. Las insignias están organizadas por dificultad: `Muy Fácil`, `Fácil`, `Intermedio` y `Difícil`.
+
+Las insignias de GitHub se lanzaron tras el éxito del primer helicóptero en Marte, [Ingenuity](https://es.wikipedia.org/wiki/Ingenuity_(helic%C3%B3ptero)).
 
 > Actualmente, hay un total de 11 insignias en GitHub, algunas con niveles de bronce, plata y oro.
 
-# 🧪 Logros en Pruebas
-Estos logros todavía están en fase de prueba y estarán disponibles próximamente:
-| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerlo | Dificultad |
-| --- | --- | --- | --- | --- |
-Corazón en la Manga | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 En pruebas` | Se puede obtener reaccionando con un emoji ❤️ a algo en GitHub. | Muy Fácil
-Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 En pruebas` | Se obtiene si el usuario tiene Pull Requests aceptados en más de 1 repositorio público. | Intermedio
+---
 
-# 🥇 Logros Obtenibles
-Los logros listados a continuación son los que puedes obtener:
-| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerlo | Dificultad |
+# 🧪 Insignias en Pruebas (Achievements Being Tested)
+
+Estas insignias aún están en fase de pruebas y estarán disponibles próximamente:
+
+| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
 | --- | --- | --- | --- | --- |
-Tiburón del Pull Request | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Sí` | Puedes obtener esta insignia al fusionar 2 Pull Requests. | Intermedio
-YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | `✅ Sí` | Se obtiene al fusionar un Pull Request sin revisión (requiere 1 usuario y 1 revisor). | Intermedio
-Rápido en el Gatillo | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Sí` | Se obtiene cerrando un Pull Request o Issue en menos de 5 minutos después de haber sido abierto. (Puedes cerrar tus propios issues). | Muy Fácil
-Pareja Extraordinaria | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Sí` | Se puede obtener al [Coautorizar](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) en un Pull Request fusionado. (Requiere la aplicación de escritorio de GitHub). | Difícil
-Cerebro Galáctico | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Sí` | Se obtiene al tener 2 respuestas aceptadas en los [Debates de la Comunidad](https://github.com/orgs/community/discussions/). | Intermedio
-Deslumbrado por Estrellas | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Sí` | Esta insignia se da cuando uno de tus repositorios obtiene 16 estrellas. | Difícil
-Patrocinador Público | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Sí` | Se puede obtener patrocinando un repositorio, organización o usuario. | Muy Fácil
+| Corazón en la Manga (Heart On Your Sleeve) | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 En pruebas` | Reacciona con un emoji ❤️ a algo en GitHub. | Muy Fácil |
+| Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 En pruebas` | Ten Pull Requests aceptados en más de un repositorio público. | Intermedio |
+
+---
+
+# 🥇 Insignias Obtenibles (Obtainable Achievements)
+
+Estas son las insignias que puedes obtener actualmente:
+
+| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
+| --- | --- | --- | --- | --- |
+| Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Sí` | Fusiona 2 Pull Requests. | Intermedio |
+| YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | `✅ Sí` | Fusiona un Pull Request sin revisión previa. | Intermedio |
+| Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Sí` | Cierra un Pull Request o Issue dentro de los 5 minutos posteriores a su apertura. | Muy Fácil |
+| Pair Extraordinaire | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Sí` | Coautoriza un Pull Request fusionado usando [GitHub Desktop](https://desktop.github.com/). | Difícil |
+| Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Sí` | Logra que 2 de tus respuestas sean aceptadas en [Community Discussions](https://github.com/orgs/community/discussions/). | Intermedio |
+| Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Sí` | Obtén 16 estrellas en uno de tus repositorios. | Difícil |
+| Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Sí` | Patrocina públicamente a un repositorio, organización o usuario. | Muy Fácil |
+
+---
+
+# ⛔ Insignias No Obtenibles (Un-Obtainable Achievements)
+
+Estas insignias ya no están disponibles para obtenerse:
+
+| Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Se Obtenía | Dificultad |
+| --- | --- | --- | --- | --- |
+| Arctic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="175px"> | `❌ No` | Contribuir código a los repositorios del [2020 Archive Program](https://archiveprogram.github.com/). | Muy Fácil |
+| Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Contribuir a repositorios en la [Misión Marte 2020](https://github.com/readme/nasa-ingenuity-helicopter). | Fácil |
