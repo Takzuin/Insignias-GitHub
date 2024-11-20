@@ -25,9 +25,9 @@ Estas son las insignias que puedes obtener actualmente:
 
 | Nombre | Imagen de la Insignia | ¿Obtenible? | Cómo Obtenerla | Dificultad |
 | --- | --- | --- | --- | --- |
+| Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Sí` | Cierra un Pull Request o Issue dentro de los 5 minutos posteriores a su apertura. | Muy Fácil |
 | Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Sí` | Fusiona 2 Pull Requests. | Intermedio |
 | YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | `✅ Sí` | Fusiona un Pull Request sin revisión previa. | Intermedio |
-| Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Sí` | Cierra un Pull Request o Issue dentro de los 5 minutos posteriores a su apertura. | Muy Fácil |
 | Pair Extraordinaire | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Sí` | Coautoriza un Pull Request fusionado usando [GitHub Desktop](https://desktop.github.com/). | Difícil |
 | Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Sí` | Logra que 2 de tus respuestas sean aceptadas en [Community Discussions](https://github.com/orgs/community/discussions/). | Intermedio |
 | Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Sí` | Obtén 16 estrellas en uno de tus repositorios. | Difícil |
